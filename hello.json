@@ -9,7 +9,7 @@
   },
   {
     "language": "Arabic",
-    "hello": "مرحبا يا من هناك."
+    "hello": "اهلا."
   },
   {
     "language": "Armenian",
@@ -28,12 +28,16 @@
     "hello": "Гэй там."
   },
   {
+    "language": "Bulgarian",
+    "hello": "Здравейте"
+  },
+  {
     "language": "Catalan",
     "hello": "Hola."
   },
   {
     "language": "Chinese (Simplified)",
-    "hello": "嘿。"
+    "hello": "你好"
   },
   {
     "language": "Croatian",
@@ -41,11 +45,11 @@
   },
   {
     "language": "Czech",
-    "hello": "Zdravím."
+    "hello": "Ahoj."
   },
   {
     "language": "Danish",
-    "hello": "Hej med dig."
+    "hello": "Hej med jer."
   },
   {
     "language": "Dutch",
@@ -57,7 +61,7 @@
   },
   {
     "language": "Estonian",
-    "hello": "Hei seal."
+    "hello": "Tere."
   },
   {
     "language": "Filipino",
@@ -65,7 +69,7 @@
   },
   {
     "language": "Finnish",
-    "hello": "Hei siellä."
+    "hello": "Hei hei."
   },
   {
     "language": "French",
@@ -81,11 +85,11 @@
   },
   {
     "language": "German",
-    "hello": "Sie da."
+    "hello": "Hallo."
   },
   {
     "language": "Greek",
-    "hello": "Γεια σου."
+    "hello": "γειά σου."
   },
   {
     "language": "Haitian Creole",
@@ -101,7 +105,7 @@
   },
   {
     "language": "Hindi",
-    "hello": "सुनो।"
+    "hello": "है"
   },
   {
     "language": "Hmong",
@@ -109,7 +113,7 @@
   },
   {
     "language": "Hungarian",
-    "hello": "Halihó."
+    "hello": "Sziasztok."
   },
   {
     "language": "Icelandic",
@@ -121,7 +125,7 @@
   },
   {
     "language": "Indonesian",
-    "hello": "Hey ada."
+    "hello": "Halo."
   },
   {
     "language": "Irish",
@@ -129,23 +133,23 @@
   },
   {
     "language": "Italian",
-    "hello": "Ehilà."
+    "hello": "Ciao."
   },
   {
     "language": "Japanese",
-    "hello": "ちょっと、そこ。"
+    "hello": "よう。"
   },
   {
     "language": "Korean",
-    "hello": "안녕하세요."
+    "hello": "안녕!."
   },
   {
     "language": "Latvian",
-    "hello": "Sveiks."
+    "hello": "Sveiki tur."
   },
   {
     "language": "Lithuanian",
-    "hello": "Labas."
+    "hello": "Sveiki."
   },
   {
     "language": "Macedonian",
@@ -173,19 +177,19 @@
   },
   {
     "language": "Polish",
-    "hello": "No hej."
+    "hello": "Cześć."
   },
   {
     "language": "Portuguese",
-    "hello": "Ei."
+    "hello": "Oi."
   },
   {
     "language": "Romanian",
-    "hello": "Hei acolo."
+    "hello": "Bună ziua."
   },
   {
     "language": "Russian",
-    "hello": "Привет."
+    "hello": "приве́т."
   },
   {
     "language": "Serbian",
@@ -193,11 +197,11 @@
   },
   {
     "language": "Slovak",
-    "hello": "Hej ty tam."
+    "hello": "Ahoj."
   },
   {
     "language": "Slovenian",
-    "hello": "Živijo."
+    "hello": "Pozdravljeni."
   },
   {
     "language": "Spanish",
@@ -209,7 +213,7 @@
   },
   {
     "language": "Swedish",
-    "hello": "Hallå där."
+    "hello": "Hej."
   },
   {
     "language": "Thai",
