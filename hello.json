@@ -1,421 +1,526 @@
 [{
     "language": "English",
-    "hello": "Welcome!"
+    "hello": "Welcome!",
+    "tag": "en"
   },
   {
     "language": "Afrikaans",
-    "hello": "hallo"
+    "hello": "hallo",
+    "tag": "af"
   },
   {
     "language": "Albanian",
-    "hello": "Përshëndetje"
+    "hello": "Përshëndetje",
+    "tag": "sq"
   },
   {
     "language": "Amharic",
-    "hello": "ሰላም"
+    "hello": "ሰላም",
+    "tag": "am"
   },
   {
     "language": "Arabic",
-    "hello": "مرحبا"
+    "hello": "مرحبا",
+    "tag": "ar"
   },
   {
     "language": "Armenian",
-    "hello": "Բարեւ"
+    "hello": "Բարեւ",
+    "tag": "hy"
   },
   {
     "language": "Azerbaijani",
-    "hello": "Salam"
+    "hello": "Salam",
+    "tag": "az"
   },
   {
     "language": "Basque",
-    "hello": "Kaixo"
+    "hello": "Kaixo",
+    "tag": "eu"
   },
   {
     "language": "Belarusian",
-    "hello": "добры дзень"
+    "hello": "добры дзень",
+    "tag": "be"
   },
   {
     "language": "Bengali",
-    "hello": "হ্যালো"
+    "hello": "হ্যালো",
+    "tag": "bn"
   },
   {
     "language": "Bosnian",
-    "hello": "zdravo"
+    "hello": "zdravo",
+    "tag": "bs"
   },
   {
     "language": "Bulgarian",
-    "hello": "Здравейте"
+    "hello": "Здравейте",
+    "tag": "bg"
   },
   {
     "language": "Catalan",
-    "hello": "Hola"
+    "hello": "Hola",
+    "tag": "ca"
   },
   {
     "language": "Cebuano",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "ceb"
   },
   {
     "language": "Chichewa",
-    "hello": "Moni"
+    "hello": "Moni",
+    "tag": "ny"
   },
   {
     "language": "Chinese (Simplified)",
-    "hello": "您好"
+    "hello": "您好",
+    "tag": "zh-Hans"
   },
   {
     "language": "Chinese (Traditional)",
-    "hello": "您好"
+    "hello": "您好",
+    "tag": "zh-Hant"
   },
   {
     "language": "Corsican",
-    "hello": "Bonghjornu"
+    "hello": "Bonghjornu",
+    "tag": "co"
   },
   {
     "language": "Croatian",
-    "hello": "zdravo"
+    "hello": "zdravo",
+    "tag": "hr"
   },
   {
     "language": "Czech",
-    "hello": "Ahoj"
+    "hello": "Ahoj",
+    "tag": "cs"
   },
   {
     "language": "Danish",
-    "hello": "Hej"
+    "hello": "Hej",
+    "tag": "da"
   },
   {
     "language": "Dutch",
-    "hello": "Hallo"
+    "hello": "Hallo",
+    "tag": "nl"
   },
   {
     "language": "English",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "en"
   },
   {
     "language": "Esperanto",
-    "hello": "Saluton"
+    "hello": "Saluton",
+    "tag": "eo"
   },
   {
     "language": "Estonian",
-    "hello": "Tere"
+    "hello": "Tere",
+    "tag": "et"
   },
   {
     "language": "Filipino",
-    "hello": "Kumusta"
+    "hello": "Kumusta",
+    "tag": "fil"
   },
   {
     "language": "Finnish",
-    "hello": "Hei"
+    "hello": "Hei",
+    "tag": "fi"
   },
   {
     "language": "French",
-    "hello": "Bonjour"
+    "hello": "Bonjour",
+    "tag": "fr"
   },
   {
     "language": "Frisian",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "fy"
   },
   {
     "language": "Galician",
-    "hello": "Ola"
+    "hello": "Ola",
+    "tag": "gl"
   },
   {
     "language": "Georgian",
-    "hello": "გამარჯობა"
+    "hello": "გამარჯობა",
+    "tag": "ka"
   },
   {
     "language": "German",
-    "hello": "Hallo"
+    "hello": "Hallo",
+    "tag": "de"
   },
   {
     "language": "Greek",
-    "hello": "Γεια σας"
+    "hello": "Γεια σας",
+    "tag": "el"
   },
   {
     "language": "Gujarati",
-    "hello": "હેલો"
+    "hello": "હેલો",
+    "tag": "gu"
   },
   {
     "language": "Haitian Creole",
-    "hello": "Bonjou"
+    "hello": "Bonjou",
+    "tag": "ht"
   },
   {
     "language": "Hausa",
-    "hello": "Sannu"
+    "hello": "Sannu",
+    "tag": "ha"
   },
   {
     "language": "Hawaiian",
-    "hello": "Alohaʻoe"
+    "hello": "Alohaʻoe",
+    "tag": "haw"
   },
   {
     "language": "Hebrew",
-    "hello": "שלום"
+    "hello": "שלום",
+    "tag": "he"
   },
   {
     "language": "Hindi",
-    "hello": "नमस्ते"
+    "hello": "नमस्ते",
+    "tag": "hi"
   },
   {
     "language": "Hmong",
-    "hello": "Nyob zoo"
+    "hello": "Nyob zoo",
+    "tag": "hmn"
   },
   {
     "language": "Hungarian",
-    "hello": "Helló"
+    "hello": "Helló",
+    "tag": "hu"
   },
   {
     "language": "Icelandic",
-    "hello": "Halló"
+    "hello": "Halló",
+    "tag": "is"
   },
   {
     "language": "Igbo",
-    "hello": "Ndewo"
+    "hello": "Ndewo",
+    "tag": "ig"
   },
   {
     "language": "Indonesian",
-    "hello": "Halo"
+    "hello": "Halo",
+    "tag": "id"
   },
   {
     "language": "Irish",
-    "hello": "Dia duit"
+    "hello": "Dia duit",
+    "tag": "ga"
   },
   {
     "language": "Italian",
-    "hello": "Ciao"
+    "hello": "Ciao",
+    "tag": "it"
   },
   {
     "language": "Japanese",
-    "hello": "こんにちは"
+    "hello": "こんにちは",
+    "tag": "ja"
   },
   {
     "language": "Javanese",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "jv"
   },
   {
     "language": "Kannada",
-    "hello": "ಹಲೋ"
+    "hello": "ಹಲೋ",
+    "tag": "kn"
   },
   {
     "language": "Kazakh",
-    "hello": "Сәлем"
+    "hello": "Сәлем",
+    "tag": "kk"
   },
   {
     "language": "Khmer",
-    "hello": "ជំរាបសួរ"
+    "hello": "ជំរាបសួរ",
+    "tag": "km"
   },
   {
     "language": "Korean",
-    "hello": "안녕하세요."
+    "hello": "안녕하세요.",
+    "tag": "ko"
   },
   {
     "language": "Kurdish (Kurmanji)",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "ku"
   },
   {
     "language": "Kyrgyz",
-    "hello": "салам"
+    "hello": "салам",
+    "tag": "ky"
   },
   {
     "language": "Lao",
-    "hello": "ສະບາຍດີ"
+    "hello": "ສະບາຍດີ",
+    "tag": "lo"
   },
   {
     "language": "Latin",
-    "hello": "salve"
+    "hello": "salve",
+    "tag": "la"
   },
   {
     "language": "Latvian",
-    "hello": "Labdien!"
+    "hello": "Labdien!",
+    "tag": "lv"
   },
   {
     "language": "Lithuanian",
-    "hello": "Sveiki"
+    "hello": "Sveiki",
+    "tag": "lt"
   },
   {
     "language": "Luxembourgish",
-    "hello": "Moien"
+    "hello": "Moien",
+    "tag": "lb"
   },
   {
     "language": "Macedonian",
-    "hello": "Здраво"
+    "hello": "Здраво",
+    "tag": "mk"
   },
   {
     "language": "Malagasy",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "mg"
   },
   {
     "language": "Malay",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "ms"
   },
   {
     "language": "Malayalam",
-    "hello": "ഹലോ"
+    "hello": "ഹലോ",
+    "tag": "ml"
   },
   {
     "language": "Maltese",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "mt"
   },
   {
     "language": "Maori",
-    "hello": "Hiha"
+    "hello": "Hiha",
+    "tag": "mi"
   },
   {
     "language": "Marathi",
-    "hello": "हॅलो"
+    "hello": "हॅलो",
+    "tag": "mr"
   },
   {
     "language": "Mongolian",
-    "hello": "Сайн байна уу"
+    "hello": "Сайн байна уу",
+    "tag": "mn"
   },
   {
     "language": "Myanmar (Burmese)",
-    "hello": "မင်္ဂလာပါ"
+    "hello": "မင်္ဂလာပါ",
+    "tag": "my"
   },
   {
     "language": "Nepali",
-    "hello": "नमस्ते"
+    "hello": "नमस्ते",
+    "tag": "ne"
   },
   {
     "language": "Norwegian",
-    "hello": "Hallo"
+    "hello": "Hallo",
+    "tag": "no"
   },
   {
     "language": "Pashto",
-    "hello": "سلام"
+    "hello": "سلام",
+    "tag": "ps"
   },
   {
     "language": "Persian",
-    "hello": "سلام"
+    "hello": "سلام",
+    "tag": "fa"
   },
   {
     "language": "Polish",
-    "hello": "Cześć"
+    "hello": "Cześć",
+    "tag": "pl"
   },
   {
     "language": "Portuguese",
-    "hello": "Olá"
+    "hello": "Olá",
+    "tag": "pt"
   },
   {
     "language": "Punjabi",
-    "hello": "ਹੈਲੋ"
+    "hello": "ਹੈਲੋ",
+    "tag": "pa"
   },
   {
     "language": "Romanian",
-    "hello": "Alo"
+    "hello": "Alo",
+    "tag": "ro"
   },
   {
     "language": "Russian",
-    "hello": "привет"
+    "hello": "привет",
+    "tag": "ru"
   },
   {
     "language": "Samoan",
-    "hello": "Talofa"
+    "hello": "Talofa",
+    "tag": "sm"
   },
   {
     "language": "Scots Gaelic",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "sco"
   },
   {
     "language": "Serbian",
-    "hello": "Здраво"
+    "hello": "Здраво",
+    "tag": "sr"
   },
   {
     "language": "Sesotho",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "st"
   },
   {
     "language": "Shona",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "sn"
   },
   {
     "language": "Sindhi",
-    "hello": "هيلو"
+    "hello": "هيلو",
+    "tag": "sd"
   },
   {
     "language": "Sinhala",
-    "hello": "හෙලෝ"
+    "hello": "හෙලෝ",
+    "tag": "si"
   },
   {
     "language": "Slovak",
-    "hello": "ahoj"
+    "hello": "ahoj",
+    "tag": "sk"
   },
   {
     "language": "Slovenian",
-    "hello": "Pozdravljeni"
+    "hello": "Pozdravljeni",
+    "tag": "sl"
   },
   {
     "language": "Somali",
-    "hello": "Hello"
+    "hello": "Hello",
+    "tag": "so"
   },
   {
     "language": "Spanish",
-    "hello": "Hola"
+    "hello": "Hola",
+    "tag": "es"
   },
   {
     "language": "Sundanese",
-    "hello": "halo"
+    "hello": "halo",
+    "tag": "apd"
   },
   {
     "language": "Swahili",
-    "hello": "Sawa"
+    "hello": "Sawa",
+    "tag": "sw"
   },
   {
     "language": "Swedish",
-    "hello": "Hallå"
+    "hello": "Hallå",
+    "tag": "sv"
   },
   {
     "language": "Tajik",
-    "hello": "Салом"
+    "hello": "Салом",
+    "tag": "tg"
   },
   {
     "language": "Tamil",
-    "hello": "ஹலோ"
+    "hello": "ஹலோ",
+    "tag": "ta"
   },
   {
     "language": "Telugu",
-    "hello": "హలో"
+    "hello": "హలో",
+    "tag": "te"
   },
   {
     "language": "Thai",
-    "hello": "สวัสดี"
+    "hello": "สวัสดี",
+    "tag": "th"
   },
   {
     "language": "Turkish",
-    "hello": "Merhaba"
+    "hello": "Merhaba",
+    "tag": "tr"
   },
   {
-    "language": "Ukranian",
-    "hello": "Здрастуйте"
+    "language": "Ukrainian",
+    "hello": "Здрастуйте",
+    "tag": "uk"
   },
   {
     "language": "Urdu",
-    "hello": "ہیلو"
+    "hello": "ہیلو",
+    "tag": "ur"
   },
   {
     "language": "Uzbek",
-    "hello": "Salom"
+    "hello": "Salom",
+    "tag": "uz"
   },
   {
     "language": "Vietnamese",
-    "hello": "Xin chào"
+    "hello": "Xin chào",
+    "tag": "vi"
   },
   {
     "language": "Welsh",
-    "hello": "Helo"
+    "hello": "Helo",
+    "tag": "cy"
   },
   {
     "language": "Xhosa",
-    "hello": "Sawubona"
+    "hello": "Sawubona",
+    "tag": "xh"
   },
   {
     "language": "Yiddish",
-    "hello": "העלא"
+    "hello": "העלא",
+    "tag": "ji"
   },
   {
     "language": "Yoruba",
-    "hello": "Kaabo"
+    "hello": "Kaabo",
+    "tag": "yo"
   },
   {
     "language": "Zulu",
-    "hello": "Sawubona"
+    "hello": "Sawubona",
+    "tag": "zu"
   }
 ]
